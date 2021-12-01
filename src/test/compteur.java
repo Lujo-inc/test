@@ -6,5 +6,6 @@ public class compteur {
 		System.out.println("La table de multiplication de " + 5);
 		for (i = 1; i <= 10; i++)
 			System.out.println(5 + "x" + i + " = " + (5 * i));
+		
 	}
 }
